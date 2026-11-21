@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.mp3
+!doctor_response.mp3
+*.db
